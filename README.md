@@ -1,9 +1,11 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  
+  <img src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47hhj4m2jnkcvgnn6xufjszi28ukz6tnrpmny6hvje&rid=giphy.gif&ct=g" alt="Computer man">
 </div>
 
 <h1 align="center">Hi 👋, I'm Thooriq Maulana</h1>
 <h3 align="center">Enthusiastic college students who interested in topics about antennas, machine learning and control systems</h3>
+
 
 - 🔭 I’m currently working as **Telecomunication Laboratory Assistant at University of Indonesia**
 
